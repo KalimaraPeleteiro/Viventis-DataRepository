@@ -1,0 +1,64 @@
+{
+    "Age": [
+        "40-49",
+        "50-59",
+        "60 or older",
+        "Less than 40"
+    ],
+    "Gender": [
+        "Female",
+        "Male"
+    ],
+    "Family_Diabetes": [
+        "No",
+        "Yes"
+    ],
+    "highBP": [
+        "No",
+        "Yes"
+    ],
+    "PhysicallyActive": [
+        "Less than half an hr",
+        "More than half an hr",
+        "None",
+        "One hr or more"
+    ],
+    "Smoking": [
+        "No",
+        "Yes"
+    ],
+    "Alcohol": [
+        "No",
+        "Yes"
+    ],
+    "RegularMedicine": [
+        "No",
+        "Yes"
+    ],
+    "JunkFood": [
+        "Always",
+        "Occasionally",
+        "Often",
+        "Very often"
+    ],
+    "Stress": [
+        "Always",
+        "Not at all",
+        "Sometimes",
+        "Very often"
+    ],
+    "BPLevel": [
+        "High",
+        "Low",
+        "Normal"
+    ],
+    "Pdiabetes": [
+        "Nan",
+        "No",
+        "Yes"
+    ],
+    "UriationFreq": [
+        "Not much",
+        "Quite often"
+    ]
+}
